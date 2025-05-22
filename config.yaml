@@ -1,0 +1,4 @@
+strategy: midpoint
+perceptopm_radius: 120
+failure_rate: 0.01
+recover_delay: 80
